@@ -62,8 +62,8 @@ For more information on the fine-grained action and resource permissions in Bedr
 Once your notebook environment is set up, clone this workshop repository into it.
 
 ```sh
-git clone ## TODO: Add git repo link
-cd synthetic-dataset-generation-RAG
+git clone https://github.com/aws-samples/generating-synthetic-datasets-for-evaluating-retrieval-augmented-generation-systems.git
+cd generating-synthetic-datasets-for-evaluating-retrieval-augmented-generation-systems/Notebook 
 ```
 
 
